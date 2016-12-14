@@ -1,7 +1,7 @@
 {
 	"name":"Bootstrap Content Script Test",
 	"short_name":"Bootstrap Test",
-	"description":"Does executing bootstrap.js as a content script on a page that already has bootstrap javascript cause problems?",
+	"description":"Executing bootstrap.js as a content script on a page that already has bootstrap.js will cause components to not function.",
 	"version":"0.1",
 	"manifest_version":2,
 	"author":"David Brokaw",
